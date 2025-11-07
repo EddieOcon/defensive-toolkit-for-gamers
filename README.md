@@ -59,18 +59,19 @@ defensive-toolkit-for-gamers/
 ├── LICENSE
 └── README.md
 
-###💬 Author’s Message
 
-This project was created with one mission — **to help people stay safe**.  
-Too many gamers, friends, and everyday users fall victim to phishing scams, data theft, and password leaks.  
-I built this toolkit not for profit, but **for the people** — to give them something that protects what matters most: their identity, privacy, and peace of mind.  
+## Author’s Message  
 
-I believe everyone deserves digital safety, no matter their background or skill level.  
-If this project helps even one person avoid being harmed, then it has done its job.  
+This project was created with one mission — to protect people.  
+In a world where digital spaces have become playgrounds for both fun and danger, I wanted to build something that helps others stay safe while doing what they love. I know that there are so many kids and young gamers out there who just want to play, explore, and have fun — without realizing how many bad actors exist online waiting to take advantage of their trust.  
 
-**Stay safe. Stay aware. And remember — I’m here for the people. 🎮🛡️**  
+I built this project for them — for every child, teen, and adult who deserves to enjoy the internet without fear of being tricked or having their personal information stolen. This is my way of giving something back to the community, free of charge, so that anyone, anywhere, can guard their digital identity and learn how to protect themselves.  
 
-— *Eddie Ocon*
+This isn’t about money or recognition. It’s about doing the right thing.  
+It’s about standing up for the people who don’t yet know how to defend themselves.  
+If this tool helps even one person stay safe, then it has fulfilled its purpose.  
+
+— *Created with care, compassion, and conviction — for the people.*  
 
 
 
